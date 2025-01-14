@@ -1,6 +1,6 @@
 # 💻 Tech Stack: ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=Streamlit&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-239120?style=plastic&logo=plotly&logoColor=white)
 
-![Front page of the "Network Traffic Monitor"](/screenshot.png)
+![Front page of the "Network Traffic Monitor"](/screenshot.jpg)
 
 # Network Traffic Monitor
 
